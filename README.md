@@ -10,5 +10,10 @@ hopes to create a model for what the future will hold.
 
 
 ### Objective
+
 In this project, you’ll use machine learning to help predict the consequences of climate change
 while working as a data analyst at a European nonprofit organization.
+
+### Presentation
+
+https://1drv.ms/p/c/5c9d535a6ad30869/EfCpe0-u54ZKjWhVuEk75sEBxDqEgy4WaIk6JshUxbkslg?e=4JnuQc
